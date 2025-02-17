@@ -90,6 +90,6 @@ Visit `http://127.0.0.1:5000/` to access the **upload page**.
 ## 🤝 6. Contributing  
 Want to improve the app? Feel free to **submit a PR** or open an **issue** on GitHub!  
 
-📌 **Medium:** [your-repo-link]  
+📌 **Medium:** [Details](https://medium.com/@Curious4Tech/cv-analyzer-ai-powered-resume-screening-for-smarter-hiring-8d3d29ddaf7d)
 
 🚀 Happy coding!
