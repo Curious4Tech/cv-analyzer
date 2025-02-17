@@ -45,7 +45,7 @@ cv-analyzer/
 ├── requirements.txt    # Dependencies
 ├── .env                # Environment variables
 ├── templates/          # HTML templates (upload/result pages)
-├── uploads/            # Temporary resume storage
+├── uploads/            # Temporary resume storage, it will be created for you automatically for the first time
 └── README.md           # Documentation
 ```
 
