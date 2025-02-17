@@ -55,19 +55,27 @@ cv-analyzer/
 ```bash
 python app.py
 ```
+
+![image](https://github.com/user-attachments/assets/d7ae3785-0405-4c7e-8ed2-46aaa53fe81d)
+
 Visit `http://127.0.0.1:5000/` to access the **upload page**.
 
 ---
 
 ## 📌 4. How It Works  
 1. **Upload a resume** (PDF, DOCX, PNG, JPG).  
-2. **Enter job description** and submit.  
-3. **AI processing**:  
+2. **Enter job description** and submit by clicking on **Analyze Resume**.
+
+![image](https://github.com/user-attachments/assets/efd04c9f-f56e-4427-8736-8750a98bee36)
+
+4. **AI processing**:  
    - Extracts text & sections (Work Experience, Skills, Education).  
    - Compares with job description using NLP.  
    - Provides AI-powered **feedback** for improvement.  
-4. **Results displayed** with similarity score & feedback.  
-5. **Qualified resumes are stored** in **Azure Blob Storage**.  
+5. **Results displayed** with similarity score & feedback.  
+6. **Qualified resumes are stored** in **Azure Blob Storage**.  
+
+![image](https://github.com/user-attachments/assets/2672c6e0-46f2-43fa-be4f-90021d0bed96)
 
 ---
 
