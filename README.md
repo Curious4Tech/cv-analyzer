@@ -8,8 +8,8 @@ CV Analyzer is a **Flask-based web app** that automates resume screening using *
 
 ### **Clone & Navigate**  
 ```bash
-git clone https://github.com/Curious4Tech/cv-analyzer-.git
-cd cv-analyzer-
+git clone https://github.com/Curious4Tech/cv-analyzer.git
+cd cv-analyzer
 ```
 
 ### **Create & Activate Virtual Environment**  
@@ -40,7 +40,7 @@ AZURE_OPENAI_DEPLOYMENT=your_deployment_name
 ## 🏗️ 2. Project Structure  
 
 ```
-cv-analyzer-/
+cv-analyzer/
 ├── app.py              # Main Flask app
 ├── requirements.txt    # Dependencies
 ├── .env                # Environment variables
